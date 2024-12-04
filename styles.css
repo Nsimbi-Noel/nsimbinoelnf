@@ -1,0 +1,31 @@
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+}
+
+.card {
+    border: 1px solid #FFD700;
+    
+}
+
+.card-title {
+    color: #FFD700;
+}
+
+.card-text {
+    color: #4CAF50;
+}
+
+footer {
+    background-color: #FFD700;
+    color: #4CAF50;
+}
+
+footer a {
+    color: #4CAF50;
+}
+
+footer a:hover {
+    color: #0000FF;
+}
+
